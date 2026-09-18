@@ -68,7 +68,7 @@ Leading development teams, reviewing architecture and code, solving complex tech
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Mehran Sarwar](https://www.linkedin.com/)
+- LinkedIn: [Mehran Sarwar](https://www.linkedin.com/in/mehran-sarwar/)
 - GitHub: [@mehransarwar1](https://github.com/mehransarwar1)
 
 ---
